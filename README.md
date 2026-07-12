@@ -197,11 +197,11 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Hemant**
+**Mehak Arora**
 
-B.Tech Computer Science & Engineering
+B.E Computer Science & Engineering
 
-Chandigarh Engineering College, Jhanjeri
+Chandigarh University
 
 ---
 
