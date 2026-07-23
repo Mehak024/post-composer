@@ -137,7 +137,7 @@ http://localhost:5173
 The backend will typically run on:
 
 ```
-http://localhost:5000
+http://localhost:5050
 ```
 
 ---
